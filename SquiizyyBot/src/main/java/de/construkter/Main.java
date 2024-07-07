@@ -35,8 +35,8 @@ import java.util.TimerTask;
 
 public class Main {
     private static ShardManager shardManager = null;
-    private static final String YOUTUBE_API_KEY = "AIzaSyDuqM_0UFxmhWvzJptS2LWX6T2o2p_vnBk";
-    private static final String CHANNEL_ID = "UCVh1TonywzRUIzY1UEax_nA";
+    private static final String YOUTUBE_API_KEY = "";
+    private static final String CHANNEL_ID = "";
     private static final String INSTAGRAM_ACCESS_TOKEN = "YOUR_INSTAGRAM_ACCESS_TOKEN";
     private static final String INSTAGRAM_USER_ID = "YOUR_INSTAGRAM_USER_ID";
     private static final String DISCORD_CHANNEL_ID = "1253783270227836978";
