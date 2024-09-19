@@ -1,4 +1,5 @@
-# SquiizyyBot
+# SquiizyyBot 
+## Archiviert
 
 
 ## Idee
